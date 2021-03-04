@@ -1,0 +1,82 @@
+.body{
+    height: 100vh;
+    width: 100%;
+
+    background-image: url(./project/restimg.jpg);
+    background-size: cover;
+    color: black;
+    background-repeat: no-repeat;
+}
+
+.head{
+    height: 120px;
+    width: 100%;
+    background-color: rgb(27, 27, 27);
+    color: rgb(255, 255, 255);
+    font-family: 'Pacifico', cursive;
+    font-size: 30px;
+    font-style: bold;
+    /* align-items: center; */
+    text-align: center;
+    /* margin-left: 40px; */
+}
+
+body{
+    background-image: url("bgimg.jpg");
+    background-size: cover;
+    font-family:  'Ubuntu', sans-serif;;
+}
+.box{
+    display: inline-block;
+    background-color: rgba(255, 255, 255, 0.801);
+    height: 250px;
+    width: 700px;
+    margin: 2px;
+    margin-top: 100px;
+    border: 0 2px 2px solid black;
+    border-radius: 10px;
+    margin-left: 30px;
+    font-size: large;
+    font-weight: bold;
+}
+/* .boxx{
+    display: inline-block;
+    background-color: white;
+    height: 400px;
+    width: 600px;
+    margin: 2px;
+    margin-top: 130px;
+    border: 0 2px 2px solid black;
+    border-radius: 20px;
+} */
+.text{
+    margin-top: -150px;
+    margin-left: 800px;
+    color: rgb(125, 104, 160);
+    font-size: larger;
+    height: 40px;
+    width: 50%;
+    /* background-color: rgba(27, 27, 27, 0.658); */
+    color: rgb(255, 255, 255);
+    font-style: bold;
+    font-size: 30px;
+}
+
+.facilities{
+    height: 400px;
+    width: 400px;
+    background-color: rgba(255, 255, 255, 0.89);
+    margin-top: 60px;
+    margin-left: 50px;
+    display: inline-block;
+    border-radius: 5px;
+}
+.amenities{
+    height: 400px;
+    width: 400px;
+    background-color: rgba(255, 255, 255, 0.856);
+    margin-top: -200px;
+    margin-left: 400px;
+    display: inline-block;
+    border-radius: 5px;
+}
